@@ -1,0 +1,7 @@
+base16:
+  filename: themes/{{ scheme-system }}-{{ scheme-slug }}.yaml
+  supported-systems: [base16]
+
+base24:
+  filename: themes/{{ scheme-system }}-{{ scheme-slug }}.yaml
+  supported-systems: [base24]
