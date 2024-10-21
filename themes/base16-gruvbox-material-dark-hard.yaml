@@ -1,0 +1,62 @@
+# vim: ft=yaml
+# Scheme System: base16
+# Scheme Name: Gruvbox Material Dark, Hard
+# Scheme Author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# Template Author: tinted-jqp (https://github.com/tinted-theming/tinted-jqp)
+theme:
+  name: "native"
+  styleOverrides:
+    primary: "#89b482"
+    secondary: "# 7daea3"
+    error: "#ea6962"
+    inactive: "#bdae93"
+    success: "#a9b665"
+  chromaStyleOverrides:
+    bg: "noinherit #ddc7a1 bg:#202020"
+    "": "noinherit #ddc7a1"
+    kc: "noinherit #d3869b" # Keyword.Constant
+    kr: "noinherit #d3869b" # KeywordReserved
+    kd: "noinherit #ea6962" # KeywordDeclaration
+    kn: "noinherit #89b482" # KeywordNamespace
+    kt: "noinherit #ea6962" # KeywordType
+    n: "noinherit #ddc7a1" # Name
+    nc: "noinherit #d8a657" # NameClass
+    no: "noinherit #d8a657" # NameConstant
+    ne: "noinherit #e78a4e" # NameException
+    nf: "noinherit #bd6f3e" # NameFunction
+    nl: "noinherit #89b482" # NameLabel
+    nn: "noinherit #e78a4e" # NameNamespace
+    py: "noinherit #e78a4e" # NameProperty
+    nt: "noinherit #ea6962" # NameTag
+    nv: "noinherit #ebdbb2" # NameVariable
+    vc: "noinherit #ebdbb2" # NameVariableClass
+    vg: "noinherit #ebdbb2" # NameVariableGlobal
+    vi: "noinherit #ebdbb2" # NameVariableInstance
+    na: "noinherit #bd6f3e" # NameAttribute
+    nb: "noinherit #89b482" # NameBuiltin
+    nx: "noinherit #ddc7a1" # NameOther
+    l: "noinherit #ddc7a1" # Literal
+    s: "noinherit #a9b665" # LiteralString
+    sc: "noinherit #a9b665" # LiteralStringChar
+    s1: "noinherit #a9b665" # LiteralStringSingle
+    s2: "noinherit #a9b665" # LiteralStringDouble
+    sb: "noinherit #a9b665" # LiteralStringBacktick
+    sx: "noinherit #a9b665" # LiteralStringOther
+    si: "noinherit #a9b665" # LiteralStringInterpol
+    sr: "noinherit #89b482" # LiteralStringRegex
+    sd: "noinherit #5a524c" # LiteralStringDoc
+    sh: "noinherit #5a524c" # LiteralStringHeredoc
+    m: "noinherit #e78a4e" # LiteralNumber
+    mb: "noinherit #e78a4e" # LiteralNumberBin
+    mh: "noinherit #e78a4e" # LiteralNumberHex
+    mi: "noinherit #e78a4e" # LiteralNumberInteger
+    mf: "noinherit #e78a4e" # LiteralNumberFloat
+    mo: "noinherit #e78a4e" # LiteralNumberOct
+    o: "noinherit bold #89b482" # Operator
+    ow: "noinherit bold #89b482" # OperatorWord
+    c: "noinherit italic #5a524c" # Comment
+    cs: "noinherit italic #5a524c" # CommentSingle
+    cm: "noinherit italic #5a524c" # CommentMultiline
+    cx: "noinherit italic #5a524c" # CommentSpecial
+    ch: "noinherit italic #5a524c" # CommentHashbang
+    cp: "noinherit italic #5a524c" # CommentPreproc
