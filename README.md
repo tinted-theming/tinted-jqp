@@ -26,8 +26,8 @@ For usage with [Tinty]:
    you have existing settings make sure to combine your custom schemes
    and the themes in the `hook` property above.
 
-2. `tinty apply base16-ayu-dark` to change the theme to
-   `base16-ayu-dark`
+2. `tinty apply base16-tokyodark` to change the theme to
+   `base16-tokyodark`
 
 For more information on Tinty setup or usage, have a look at the [Tinty]
 GitHub page.
