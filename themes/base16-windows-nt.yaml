@@ -1,7 +1,7 @@
 # vim: ft=yaml
 # Scheme System: base16
 # Scheme Name: Windows NT
-# Scheme Author: Fergus Collins (https://github.com/C-Fergus)
+# Scheme Author: Fergus Collins (https://github.com/ferguscollins)
 # Template Author: tinted-jqp (https://github.com/tinted-theming/tinted-jqp)
 theme:
   name: "native"
