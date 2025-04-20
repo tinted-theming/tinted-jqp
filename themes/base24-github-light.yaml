@@ -1,6 +1,6 @@
 # vim: ft=yaml
-# Scheme System: base16
-# Scheme Name: Github
+# Scheme System: base24
+# Scheme Name: Github Light
 # Scheme Author: Tinted Theming (https://github.com/tinted-theming)
 # Template Author: tinted-jqp (https://github.com/tinted-theming/tinted-jqp)
 theme:
@@ -16,15 +16,15 @@ theme:
     "": "noinherit #424a53"
     kc: "noinherit #a475f9" # Keyword.Constant
     kr: "noinherit #a475f9" # KeywordReserved
-    kd: "noinherit #fa4549" # KeywordDeclaration
+    kd: "noinherit #ff8182" # KeywordDeclaration
     kn: "noinherit #339d9b" # KeywordNamespace
-    kt: "noinherit #fa4549" # KeywordType
+    kt: "noinherit #ff8182" # KeywordType
     n: "noinherit #424a53" # Name
     nc: "noinherit #bf8700" # NameClass
     no: "noinherit #bf8700" # NameConstant
     ne: "noinherit #e16f24" # NameException
     nf: "noinherit #4d2d00" # NameFunction
-    nl: "noinherit #339d9b" # NameLabel
+    nl: "noinherit #49bcb7" # NameLabel
     nn: "noinherit #e16f24" # NameNamespace
     py: "noinherit #e16f24" # NameProperty
     nt: "noinherit #fa4549" # NameTag
@@ -33,7 +33,7 @@ theme:
     vg: "noinherit #32383f" # NameVariableGlobal
     vi: "noinherit #32383f" # NameVariableInstance
     na: "noinherit #4d2d00" # NameAttribute
-    nb: "noinherit #339d9b" # NameBuiltin
+    nb: "noinherit #49bcb7" # NameBuiltin
     nx: "noinherit #424a53" # NameOther
     l: "noinherit #424a53" # Literal
     s: "noinherit #2da44e" # LiteralString
@@ -52,8 +52,8 @@ theme:
     mi: "noinherit #e16f24" # LiteralNumberInteger
     mf: "noinherit #e16f24" # LiteralNumberFloat
     mo: "noinherit #e16f24" # LiteralNumberOct
-    o: "noinherit bold #339d9b" # Operator
-    ow: "noinherit bold #339d9b" # OperatorWord
+    o: "noinherit bold #49bcb7" # Operator
+    ow: "noinherit bold #49bcb7" # OperatorWord
     c: "noinherit italic #8c959f" # Comment
     cs: "noinherit italic #8c959f" # CommentSingle
     cm: "noinherit italic #8c959f" # CommentMultiline
