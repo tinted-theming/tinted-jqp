@@ -1,5 +1,5 @@
 # vim: ft=yaml
-# Scheme System: base16
+# Scheme System: base24
 # Scheme Name: Ayu Mirage
 # Scheme Author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template Author: tinted-jqp (https://github.com/tinted-theming/tinted-jqp)
@@ -16,15 +16,15 @@ theme:
     "": "noinherit #cccac2"
     kc: "noinherit #d4bfff" # Keyword.Constant
     kr: "noinherit #d4bfff" # KeywordReserved
-    kd: "noinherit #f28779" # KeywordDeclaration
+    kd: "noinherit #ff6666" # KeywordDeclaration
     kn: "noinherit #95e6cb" # KeywordNamespace
-    kt: "noinherit #f28779" # KeywordType
+    kt: "noinherit #ff6666" # KeywordType
     n: "noinherit #cccac2" # Name
     nc: "noinherit #ffd173" # NameClass
     no: "noinherit #ffd173" # NameConstant
     ne: "noinherit #ffad66" # NameException
     nf: "noinherit #f27983" # NameFunction
-    nl: "noinherit #95e6cb" # NameLabel
+    nl: "noinherit #5ccfe6" # NameLabel
     nn: "noinherit #ffad66" # NameNamespace
     py: "noinherit #ffad66" # NameProperty
     nt: "noinherit #f28779" # NameTag
@@ -33,7 +33,7 @@ theme:
     vg: "noinherit #d9d7ce" # NameVariableGlobal
     vi: "noinherit #d9d7ce" # NameVariableInstance
     na: "noinherit #f27983" # NameAttribute
-    nb: "noinherit #95e6cb" # NameBuiltin
+    nb: "noinherit #5ccfe6" # NameBuiltin
     nx: "noinherit #cccac2" # NameOther
     l: "noinherit #cccac2" # Literal
     s: "noinherit #d5ff80" # LiteralString
@@ -52,8 +52,8 @@ theme:
     mi: "noinherit #ffad66" # LiteralNumberInteger
     mf: "noinherit #ffad66" # LiteralNumberFloat
     mo: "noinherit #ffad66" # LiteralNumberOct
-    o: "noinherit bold #95e6cb" # Operator
-    ow: "noinherit bold #95e6cb" # OperatorWord
+    o: "noinherit bold #5ccfe6" # Operator
+    ow: "noinherit bold #5ccfe6" # OperatorWord
     c: "noinherit italic #4a5059" # Comment
     cs: "noinherit italic #4a5059" # CommentSingle
     cm: "noinherit italic #4a5059" # CommentMultiline
