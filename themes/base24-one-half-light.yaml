@@ -12,7 +12,7 @@ theme:
     inactive: "#a4a6ab"
     success: "#4fa14f"
   chromaStyleOverrides:
-    bg: "noinherit #cfd0d2 bg:#fafafa"
+    bg: "noinherit #cfd0d2 bg:#2a2b32"
     "": "noinherit #cfd0d2"
     kc: "noinherit #a625a4" # Keyword.Constant
     kr: "noinherit #a625a4" # KeywordReserved
@@ -20,8 +20,8 @@ theme:
     kn: "noinherit #0996b3" # KeywordNamespace
     kt: "noinherit #df6c75" # KeywordType
     n: "noinherit #cfd0d2" # Name
-    nc: "noinherit #61afef" # NameClass
-    no: "noinherit #61afef" # NameConstant
+    nc: "noinherit #c0aa00" # NameClass
+    no: "noinherit #c0aa00" # NameConstant
     ne: "noinherit #c08400" # NameException
     nf: "noinherit #722b24" # NameFunction
     nl: "noinherit #56b5c1" # NameLabel

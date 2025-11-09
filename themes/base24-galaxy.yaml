@@ -20,13 +20,13 @@ theme:
     kn: "noinherit #1e9ee6" # KeywordNamespace
     kt: "noinherit #fa8b8e" # KeywordType
     n: "noinherit #a1a1a1" # Name
-    nc: "noinherit #589cf5" # NameClass
-    no: "noinherit #589cf5" # NameConstant
-    ne: "noinherit #fdf029" # NameException
+    nc: "noinherit #fdf029" # NameClass
+    no: "noinherit #fdf029" # NameConstant
+    ne: "noinherit #fdba29" # NameException
     nf: "noinherit #7c2a2f" # NameFunction
     nl: "noinherit #3978bb" # NameLabel
-    nn: "noinherit #fdf029" # NameNamespace
-    py: "noinherit #fdf029" # NameProperty
+    nn: "noinherit #fdba29" # NameNamespace
+    py: "noinherit #fdba29" # NameProperty
     nt: "noinherit #f9555f" # NameTag
     nv: "noinherit #bbbbbb" # NameVariable
     vc: "noinherit #bbbbbb" # NameVariableClass
@@ -46,12 +46,12 @@ theme:
     sr: "noinherit #1e9ee6" # LiteralStringRegex
     sd: "noinherit #6e6e6e" # LiteralStringDoc
     sh: "noinherit #6e6e6e" # LiteralStringHeredoc
-    m: "noinherit #fdf029" # LiteralNumber
-    mb: "noinherit #fdf029" # LiteralNumberBin
-    mh: "noinherit #fdf029" # LiteralNumberHex
-    mi: "noinherit #fdf029" # LiteralNumberInteger
-    mf: "noinherit #fdf029" # LiteralNumberFloat
-    mo: "noinherit #fdf029" # LiteralNumberOct
+    m: "noinherit #fdba29" # LiteralNumber
+    mb: "noinherit #fdba29" # LiteralNumberBin
+    mh: "noinherit #fdba29" # LiteralNumberHex
+    mi: "noinherit #fdba29" # LiteralNumberInteger
+    mf: "noinherit #fdba29" # LiteralNumberFloat
+    mo: "noinherit #fdba29" # LiteralNumberOct
     o: "noinherit bold #3978bb" # Operator
     ow: "noinherit bold #3978bb" # OperatorWord
     c: "noinherit italic #6e6e6e" # Comment

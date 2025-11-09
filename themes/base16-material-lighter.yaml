@@ -28,10 +28,10 @@ theme:
     nn: "noinherit #f76d47" # NameNamespace
     py: "noinherit #f76d47" # NameProperty
     nt: "noinherit #ff5370" # NameTag
-    nv: "noinherit #80cbc4" # NameVariable
-    vc: "noinherit #80cbc4" # NameVariableClass
-    vg: "noinherit #80cbc4" # NameVariableGlobal
-    vi: "noinherit #80cbc4" # NameVariableInstance
+    nv: "noinherit #43a39a" # NameVariable
+    vc: "noinherit #43a39a" # NameVariableClass
+    vg: "noinherit #43a39a" # NameVariableGlobal
+    vi: "noinherit #43a39a" # NameVariableInstance
     na: "noinherit #e53935" # NameAttribute
     nb: "noinherit #39adb5" # NameBuiltin
     nx: "noinherit #80cbc4" # NameOther

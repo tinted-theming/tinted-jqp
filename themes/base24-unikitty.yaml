@@ -12,7 +12,7 @@ theme:
     inactive: "#918c91"
     success: "#bafc8b"
   chromaStyleOverrides:
-    bg: "noinherit #b9b1b8 bg:#ff8cd9"
+    bg: "noinherit #b9b1b8 bg:#ff7ad3"
     "": "noinherit #b9b1b8"
     kc: "noinherit #ff36a2" # Keyword.Constant
     kr: "noinherit #ff36a2" # KeywordReserved
@@ -20,13 +20,13 @@ theme:
     kn: "noinherit #6bd0bc" # KeywordNamespace
     kt: "noinherit #d81329" # KeywordType
     n: "noinherit #b9b1b8" # Name
-    nc: "noinherit #0074ea" # NameClass
-    no: "noinherit #0074ea" # NameConstant
-    ne: "noinherit #eedf4b" # NameException
+    nc: "noinherit #eedf4b" # NameClass
+    no: "noinherit #eedf4b" # NameConstant
+    ne: "noinherit #eeaa4b" # NameException
     nf: "noinherit #540710" # NameFunction
     nl: "noinherit #79ebd5" # NameLabel
-    nn: "noinherit #eedf4b" # NameNamespace
-    py: "noinherit #eedf4b" # NameProperty
+    nn: "noinherit #eeaa4b" # NameNamespace
+    py: "noinherit #eeaa4b" # NameProperty
     nt: "noinherit #a80f20" # NameTag
     nv: "noinherit #e1d6e0" # NameVariable
     vc: "noinherit #e1d6e0" # NameVariableClass
@@ -46,12 +46,12 @@ theme:
     sr: "noinherit #6bd0bc" # LiteralStringRegex
     sd: "noinherit #696769" # LiteralStringDoc
     sh: "noinherit #696769" # LiteralStringHeredoc
-    m: "noinherit #eedf4b" # LiteralNumber
-    mb: "noinherit #eedf4b" # LiteralNumberBin
-    mh: "noinherit #eedf4b" # LiteralNumberHex
-    mi: "noinherit #eedf4b" # LiteralNumberInteger
-    mf: "noinherit #eedf4b" # LiteralNumberFloat
-    mo: "noinherit #eedf4b" # LiteralNumberOct
+    m: "noinherit #eeaa4b" # LiteralNumber
+    mb: "noinherit #eeaa4b" # LiteralNumberBin
+    mh: "noinherit #eeaa4b" # LiteralNumberHex
+    mi: "noinherit #eeaa4b" # LiteralNumberInteger
+    mf: "noinherit #eeaa4b" # LiteralNumberFloat
+    mo: "noinherit #eeaa4b" # LiteralNumberOct
     o: "noinherit bold #79ebd5" # Operator
     ow: "noinherit bold #79ebd5" # OperatorWord
     c: "noinherit italic #696769" # Comment

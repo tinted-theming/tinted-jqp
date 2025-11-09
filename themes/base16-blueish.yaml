@@ -20,8 +20,8 @@ theme:
     kn: "noinherit #5fd1ff" # KeywordNamespace
     kt: "noinherit #4ce587" # KeywordType
     n: "noinherit #c8e1f8" # Name
-    nc: "noinherit #82aaff" # NameClass
-    no: "noinherit #82aaff" # NameConstant
+    nc: "noinherit #f6cd5c" # NameClass
+    no: "noinherit #f6cd5c" # NameConstant
     ne: "noinherit #f6a85c" # NameException
     nf: "noinherit #bbd2e8" # NameFunction
     nl: "noinherit #5fd1ff" # NameLabel
