@@ -1,5 +1,5 @@
 # vim: ft=yaml
-# Scheme System: base16
+# Scheme System: base24
 # Scheme Name: Kanagawa Dragon
 # Scheme Author: Stefan Weigl-Bosker (https://github.com/sweiglbosker), Tommaso Laurenzi (https://github.com/rebelot/kanagawa.nvim)
 # Template Author: tinted-jqp (https://github.com/tinted-theming/tinted-jqp)
@@ -16,15 +16,15 @@ theme:
     "": "noinherit #c5c9c5"
     kc: "noinherit #a292a3" # Keyword.Constant
     kr: "noinherit #a292a3" # KeywordReserved
-    kd: "noinherit #c4746e" # KeywordDeclaration
+    kd: "noinherit #e46876" # KeywordDeclaration
     kn: "noinherit #8ea4a2" # KeywordNamespace
-    kt: "noinherit #c4746e" # KeywordType
+    kt: "noinherit #e46876" # KeywordType
     n: "noinherit #c5c9c5" # Name
     nc: "noinherit #c4b28a" # NameClass
     no: "noinherit #c4b28a" # NameConstant
     ne: "noinherit #b6927b" # NameException
     nf: "noinherit #b98d7b" # NameFunction
-    nl: "noinherit #8ea4a2" # NameLabel
+    nl: "noinherit #7aa89f" # NameLabel
     nn: "noinherit #b6927b" # NameNamespace
     py: "noinherit #b6927b" # NameProperty
     nt: "noinherit #c4746e" # NameTag
@@ -33,7 +33,7 @@ theme:
     vg: "noinherit #c8c093" # NameVariableGlobal
     vi: "noinherit #c8c093" # NameVariableInstance
     na: "noinherit #b98d7b" # NameAttribute
-    nb: "noinherit #8ea4a2" # NameBuiltin
+    nb: "noinherit #7aa89f" # NameBuiltin
     nx: "noinherit #c5c9c5" # NameOther
     l: "noinherit #c5c9c5" # Literal
     s: "noinherit #8a9a7b" # LiteralString
@@ -52,8 +52,8 @@ theme:
     mi: "noinherit #b6927b" # LiteralNumberInteger
     mf: "noinherit #b6927b" # LiteralNumberFloat
     mo: "noinherit #b6927b" # LiteralNumberOct
-    o: "noinherit bold #8ea4a2" # Operator
-    ow: "noinherit bold #8ea4a2" # OperatorWord
+    o: "noinherit bold #7aa89f" # Operator
+    ow: "noinherit bold #7aa89f" # OperatorWord
     c: "noinherit italic #625e5a" # Comment
     cs: "noinherit italic #625e5a" # CommentSingle
     cm: "noinherit italic #625e5a" # CommentMultiline

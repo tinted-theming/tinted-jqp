@@ -9,7 +9,7 @@ theme:
     primary: "#8bd5ca"
     secondary: "# 8aadf4"
     error: "#ed8796"
-    inactive: "#5b6078"
+    inactive: "#a5adcb"
     success: "#a6da95"
   chromaStyleOverrides:
     bg: "noinherit #cad3f5 bg:#24273a"
@@ -44,8 +44,8 @@ theme:
     sx: "noinherit #a6da95" # LiteralStringOther
     si: "noinherit #a6da95" # LiteralStringInterpol
     sr: "noinherit #8bd5ca" # LiteralStringRegex
-    sd: "noinherit #494d64" # LiteralStringDoc
-    sh: "noinherit #494d64" # LiteralStringHeredoc
+    sd: "noinherit #6e738d" # LiteralStringDoc
+    sh: "noinherit #6e738d" # LiteralStringHeredoc
     m: "noinherit #f5a97f" # LiteralNumber
     mb: "noinherit #f5a97f" # LiteralNumberBin
     mh: "noinherit #f5a97f" # LiteralNumberHex
@@ -54,9 +54,9 @@ theme:
     mo: "noinherit #f5a97f" # LiteralNumberOct
     o: "noinherit bold #91d7e3" # Operator
     ow: "noinherit bold #91d7e3" # OperatorWord
-    c: "noinherit italic #494d64" # Comment
-    cs: "noinherit italic #494d64" # CommentSingle
-    cm: "noinherit italic #494d64" # CommentMultiline
-    cx: "noinherit italic #494d64" # CommentSpecial
-    ch: "noinherit italic #494d64" # CommentHashbang
-    cp: "noinherit italic #494d64" # CommentPreproc
+    c: "noinherit italic #6e738d" # Comment
+    cs: "noinherit italic #6e738d" # CommentSingle
+    cm: "noinherit italic #6e738d" # CommentMultiline
+    cx: "noinherit italic #6e738d" # CommentSpecial
+    ch: "noinherit italic #6e738d" # CommentHashbang
+    cp: "noinherit italic #6e738d" # CommentPreproc
