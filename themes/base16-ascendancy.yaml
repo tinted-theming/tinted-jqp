@@ -8,7 +8,7 @@ theme:
   styleOverrides:
     primary: "#8f3f71"
     secondary: "# 458588"
-    error: "#c03900"
+    error: "#d05000"
     inactive: "#bdae93"
     success: "#b8bb26"
   chromaStyleOverrides:
@@ -16,9 +16,9 @@ theme:
     "": "noinherit #d5c7a1"
     kc: "noinherit #fabd2f" # Keyword.Constant
     kr: "noinherit #fabd2f" # KeywordReserved
-    kd: "noinherit #c03900" # KeywordDeclaration
+    kd: "noinherit #d05000" # KeywordDeclaration
     kn: "noinherit #8f3f71" # KeywordNamespace
-    kt: "noinherit #c03900" # KeywordType
+    kt: "noinherit #d05000" # KeywordType
     n: "noinherit #d5c7a1" # Name
     nc: "noinherit #ffcc1b" # NameClass
     no: "noinherit #ffcc1b" # NameConstant
@@ -27,7 +27,7 @@ theme:
     nl: "noinherit #8f3f71" # NameLabel
     nn: "noinherit #fe8019" # NameNamespace
     py: "noinherit #fe8019" # NameProperty
-    nt: "noinherit #c03900" # NameTag
+    nt: "noinherit #d05000" # NameTag
     nv: "noinherit #ebdbb2" # NameVariable
     vc: "noinherit #ebdbb2" # NameVariableClass
     vg: "noinherit #ebdbb2" # NameVariableGlobal
