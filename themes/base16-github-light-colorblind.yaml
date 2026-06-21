@@ -1,39 +1,39 @@
 # vim: ft=yaml
-# Scheme System: base24
-# Scheme Name: Github Light
+# Scheme System: base16
+# Scheme Name: Github Light Colorblind
 # Scheme Author: Tinted Theming (https://github.com/tinted-theming)
 # Template Author: tinted-jqp (https://github.com/tinted-theming/tinted-jqp)
 theme:
   name: "native"
   styleOverrides:
-    primary: "#116329"
+    primary: "#0550ae"
     secondary: "# 8250df"
-    error: "#953800"
+    error: "#8a4600"
     inactive: "#6e7781"
     success: "#0a3069"
   chromaStyleOverrides:
     bg: "noinherit #424a53 bg:#ffffff"
     "": "noinherit #424a53"
-    kc: "noinherit #cf222e" # Keyword.Constant
-    kr: "noinherit #cf222e" # KeywordReserved
-    kd: "noinherit #ff8182" # KeywordDeclaration
-    kn: "noinherit #116329" # KeywordNamespace
-    kt: "noinherit #ff8182" # KeywordType
+    kc: "noinherit #b35900" # Keyword.Constant
+    kr: "noinherit #b35900" # KeywordReserved
+    kd: "noinherit #8a4600" # KeywordDeclaration
+    kn: "noinherit #0550ae" # KeywordNamespace
+    kt: "noinherit #8a4600" # KeywordType
     n: "noinherit #424a53" # Name
     nc: "noinherit #bf8700" # NameClass
     no: "noinherit #bf8700" # NameConstant
     ne: "noinherit #0550ae" # NameException
-    nf: "noinherit #82071e" # NameFunction
-    nl: "noinherit #49bcb7" # NameLabel
+    nf: "noinherit #6f3800" # NameFunction
+    nl: "noinherit #0550ae" # NameLabel
     nn: "noinherit #0550ae" # NameNamespace
     py: "noinherit #0550ae" # NameProperty
-    nt: "noinherit #953800" # NameTag
+    nt: "noinherit #8a4600" # NameTag
     nv: "noinherit #32383f" # NameVariable
     vc: "noinherit #32383f" # NameVariableClass
     vg: "noinherit #32383f" # NameVariableGlobal
     vi: "noinherit #32383f" # NameVariableInstance
-    na: "noinherit #82071e" # NameAttribute
-    nb: "noinherit #49bcb7" # NameBuiltin
+    na: "noinherit #6f3800" # NameAttribute
+    nb: "noinherit #0550ae" # NameBuiltin
     nx: "noinherit #424a53" # NameOther
     l: "noinherit #424a53" # Literal
     s: "noinherit #0a3069" # LiteralString
@@ -43,7 +43,7 @@ theme:
     sb: "noinherit #0a3069" # LiteralStringBacktick
     sx: "noinherit #0a3069" # LiteralStringOther
     si: "noinherit #0a3069" # LiteralStringInterpol
-    sr: "noinherit #116329" # LiteralStringRegex
+    sr: "noinherit #0550ae" # LiteralStringRegex
     sd: "noinherit #8c959f" # LiteralStringDoc
     sh: "noinherit #8c959f" # LiteralStringHeredoc
     m: "noinherit #0550ae" # LiteralNumber
@@ -52,8 +52,8 @@ theme:
     mi: "noinherit #0550ae" # LiteralNumberInteger
     mf: "noinherit #0550ae" # LiteralNumberFloat
     mo: "noinherit #0550ae" # LiteralNumberOct
-    o: "noinherit bold #49bcb7" # Operator
-    ow: "noinherit bold #49bcb7" # OperatorWord
+    o: "noinherit bold #0550ae" # Operator
+    ow: "noinherit bold #0550ae" # OperatorWord
     c: "noinherit italic #8c959f" # Comment
     cs: "noinherit italic #8c959f" # CommentSingle
     cm: "noinherit italic #8c959f" # CommentMultiline
