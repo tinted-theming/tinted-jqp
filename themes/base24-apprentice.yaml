@@ -1,5 +1,5 @@
 # vim: ft=yaml
-# Scheme System: base16
+# Scheme System: base24
 # Scheme Name: Apprentice
 # Scheme Author: Romain Lafourcade (https://github.com/romainl)
 # Template Author: tinted-jqp (https://github.com/tinted-theming/tinted-jqp)
@@ -16,15 +16,15 @@ theme:
     "": "noinherit #bcbcbc"
     kc: "noinherit #5f5f87" # Keyword.Constant
     kr: "noinherit #5f5f87" # KeywordReserved
-    kd: "noinherit #af5f5f" # KeywordDeclaration
+    kd: "noinherit #ff8700" # KeywordDeclaration
     kn: "noinherit #5f8787" # KeywordNamespace
-    kt: "noinherit #af5f5f" # KeywordType
+    kt: "noinherit #ff8700" # KeywordType
     n: "noinherit #bcbcbc" # Name
     nc: "noinherit #87875f" # NameClass
     no: "noinherit #87875f" # NameConstant
     ne: "noinherit #ff8700" # NameException
     nf: "noinherit #af5f5f" # NameFunction
-    nl: "noinherit #5f8787" # NameLabel
+    nl: "noinherit #5fafaf" # NameLabel
     nn: "noinherit #ff8700" # NameNamespace
     py: "noinherit #ff8700" # NameProperty
     nt: "noinherit #af5f5f" # NameTag
@@ -33,7 +33,7 @@ theme:
     vg: "noinherit #dfdfdf" # NameVariableGlobal
     vi: "noinherit #dfdfdf" # NameVariableInstance
     na: "noinherit #af5f5f" # NameAttribute
-    nb: "noinherit #5f8787" # NameBuiltin
+    nb: "noinherit #5fafaf" # NameBuiltin
     nx: "noinherit #bcbcbc" # NameOther
     l: "noinherit #bcbcbc" # Literal
     s: "noinherit #5f875f" # LiteralString
@@ -52,8 +52,8 @@ theme:
     mi: "noinherit #ff8700" # LiteralNumberInteger
     mf: "noinherit #ff8700" # LiteralNumberFloat
     mo: "noinherit #ff8700" # LiteralNumberOct
-    o: "noinherit bold #5f8787" # Operator
-    ow: "noinherit bold #5f8787" # OperatorWord
+    o: "noinherit bold #5fafaf" # Operator
+    ow: "noinherit bold #5fafaf" # OperatorWord
     c: "noinherit italic #444444" # Comment
     cs: "noinherit italic #444444" # CommentSingle
     cm: "noinherit italic #444444" # CommentMultiline
