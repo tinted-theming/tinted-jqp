@@ -6,36 +6,36 @@
 theme:
   name: "native"
   styleOverrides:
-    primary: "#00bed0"
-    secondary: "# 96c3fb"
-    error: "#de6961"
-    inactive: "#79686d"
+    primary: "#6fcad4"
+    secondary: "# 9ac3f8"
+    error: "#db6c63"
+    inactive: "#79616a"
     success: "#7dc797"
   chromaStyleOverrides:
-    bg: "noinherit #e4d2d7 bg:#23171b"
-    "": "noinherit #e4d2d7"
-    kc: "noinherit #beb5fc" # Keyword.Constant
-    kr: "noinherit #beb5fc" # KeywordReserved
-    kd: "noinherit #e98e86" # KeywordDeclaration
-    kn: "noinherit #00bed0" # KeywordNamespace
-    kt: "noinherit #e98e86" # KeywordType
-    n: "noinherit #e4d2d7" # Name
+    bg: "noinherit #e8d6dc bg:#200f16"
+    "": "noinherit #e8d6dc"
+    kc: "noinherit #bfb6f9" # Keyword.Constant
+    kr: "noinherit #bfb6f9" # KeywordReserved
+    kd: "noinherit #e78f86" # KeywordDeclaration
+    kn: "noinherit #6fcad4" # KeywordNamespace
+    kt: "noinherit #e78f86" # KeywordType
+    n: "noinherit #e8d6dc" # Name
     nc: "noinherit #f9c875" # NameClass
     no: "noinherit #f9c875" # NameConstant
-    ne: "noinherit #fca970" # NameException
+    ne: "noinherit #fbac74" # NameException
     nf: "noinherit #ddb7ed" # NameFunction
-    nl: "noinherit #76d2df" # NameLabel
-    nn: "noinherit #fca970" # NameNamespace
-    py: "noinherit #fca970" # NameProperty
-    nt: "noinherit #de6961" # NameTag
-    nv: "noinherit #b9adb1" # NameVariable
-    vc: "noinherit #b9adb1" # NameVariableClass
-    vg: "noinherit #b9adb1" # NameVariableGlobal
-    vi: "noinherit #b9adb1" # NameVariableInstance
+    nl: "noinherit #8de4ed" # NameLabel
+    nn: "noinherit #fbac74" # NameNamespace
+    py: "noinherit #fbac74" # NameProperty
+    nt: "noinherit #db6c63" # NameTag
+    nv: "noinherit #bdacb2" # NameVariable
+    vc: "noinherit #bdacb2" # NameVariableClass
+    vg: "noinherit #bdacb2" # NameVariableGlobal
+    vi: "noinherit #bdacb2" # NameVariableInstance
     na: "noinherit #ddb7ed" # NameAttribute
-    nb: "noinherit #76d2df" # NameBuiltin
-    nx: "noinherit #e4d2d7" # NameOther
-    l: "noinherit #e4d2d7" # Literal
+    nb: "noinherit #8de4ed" # NameBuiltin
+    nx: "noinherit #e8d6dc" # NameOther
+    l: "noinherit #e8d6dc" # Literal
     s: "noinherit #7dc797" # LiteralString
     sc: "noinherit #7dc797" # LiteralStringChar
     s1: "noinherit #7dc797" # LiteralStringSingle
@@ -43,20 +43,20 @@ theme:
     sb: "noinherit #7dc797" # LiteralStringBacktick
     sx: "noinherit #7dc797" # LiteralStringOther
     si: "noinherit #7dc797" # LiteralStringInterpol
-    sr: "noinherit #00bed0" # LiteralStringRegex
-    sd: "noinherit #3d2f33" # LiteralStringDoc
-    sh: "noinherit #3d2f33" # LiteralStringHeredoc
-    m: "noinherit #fca970" # LiteralNumber
-    mb: "noinherit #fca970" # LiteralNumberBin
-    mh: "noinherit #fca970" # LiteralNumberHex
-    mi: "noinherit #fca970" # LiteralNumberInteger
-    mf: "noinherit #fca970" # LiteralNumberFloat
-    mo: "noinherit #fca970" # LiteralNumberOct
-    o: "noinherit bold #76d2df" # Operator
-    ow: "noinherit bold #76d2df" # OperatorWord
-    c: "noinherit italic #3d2f33" # Comment
-    cs: "noinherit italic #3d2f33" # CommentSingle
-    cm: "noinherit italic #3d2f33" # CommentMultiline
-    cx: "noinherit italic #3d2f33" # CommentSpecial
-    ch: "noinherit italic #3d2f33" # CommentHashbang
-    cp: "noinherit italic #3d2f33" # CommentPreproc
+    sr: "noinherit #6fcad4" # LiteralStringRegex
+    sd: "noinherit #3b262e" # LiteralStringDoc
+    sh: "noinherit #3b262e" # LiteralStringHeredoc
+    m: "noinherit #fbac74" # LiteralNumber
+    mb: "noinherit #fbac74" # LiteralNumberBin
+    mh: "noinherit #fbac74" # LiteralNumberHex
+    mi: "noinherit #fbac74" # LiteralNumberInteger
+    mf: "noinherit #fbac74" # LiteralNumberFloat
+    mo: "noinherit #fbac74" # LiteralNumberOct
+    o: "noinherit bold #8de4ed" # Operator
+    ow: "noinherit bold #8de4ed" # OperatorWord
+    c: "noinherit italic #3b262e" # Comment
+    cs: "noinherit italic #3b262e" # CommentSingle
+    cm: "noinherit italic #3b262e" # CommentMultiline
+    cx: "noinherit italic #3b262e" # CommentSpecial
+    ch: "noinherit italic #3b262e" # CommentHashbang
+    cp: "noinherit italic #3b262e" # CommentPreproc

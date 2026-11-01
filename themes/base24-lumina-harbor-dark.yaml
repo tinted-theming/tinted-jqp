@@ -6,57 +6,57 @@
 theme:
   name: "native"
   styleOverrides:
-    primary: "#bedee4"
-    secondary: "# 87c6f2"
-    error: "#dd6b62"
-    inactive: "#577192"
-    success: "#82d9b4"
+    primary: "#91cfd6"
+    secondary: "# 91c5ea"
+    error: "#d0756c"
+    inactive: "#62697a"
+    success: "#9bd8b4"
   chromaStyleOverrides:
-    bg: "noinherit #cfdceb bg:#0c1e37"
-    "": "noinherit #cfdceb"
-    kc: "noinherit #b897f0" # Keyword.Constant
-    kr: "noinherit #b897f0" # KeywordReserved
-    kd: "noinherit #e88f86" # KeywordDeclaration
-    kn: "noinherit #bedee4" # KeywordNamespace
-    kt: "noinherit #e88f86" # KeywordType
-    n: "noinherit #cfdceb" # Name
-    nc: "noinherit #e8d66b" # NameClass
-    no: "noinherit #e8d66b" # NameConstant
-    ne: "noinherit #fca864" # NameException
-    nf: "noinherit #e8a9e1" # NameFunction
-    nl: "noinherit #b8f4ff" # NameLabel
-    nn: "noinherit #fca864" # NameNamespace
-    py: "noinherit #fca864" # NameProperty
-    nt: "noinherit #dd6b62" # NameTag
-    nv: "noinherit #a2b2ca" # NameVariable
-    vc: "noinherit #a2b2ca" # NameVariableClass
-    vg: "noinherit #a2b2ca" # NameVariableGlobal
-    vi: "noinherit #a2b2ca" # NameVariableInstance
-    na: "noinherit #e8a9e1" # NameAttribute
-    nb: "noinherit #b8f4ff" # NameBuiltin
-    nx: "noinherit #cfdceb" # NameOther
-    l: "noinherit #cfdceb" # Literal
-    s: "noinherit #82d9b4" # LiteralString
-    sc: "noinherit #82d9b4" # LiteralStringChar
-    s1: "noinherit #82d9b4" # LiteralStringSingle
-    s2: "noinherit #82d9b4" # LiteralStringDouble
-    sb: "noinherit #82d9b4" # LiteralStringBacktick
-    sx: "noinherit #82d9b4" # LiteralStringOther
-    si: "noinherit #82d9b4" # LiteralStringInterpol
-    sr: "noinherit #bedee4" # LiteralStringRegex
-    sd: "noinherit #223755" # LiteralStringDoc
-    sh: "noinherit #223755" # LiteralStringHeredoc
-    m: "noinherit #fca864" # LiteralNumber
-    mb: "noinherit #fca864" # LiteralNumberBin
-    mh: "noinherit #fca864" # LiteralNumberHex
-    mi: "noinherit #fca864" # LiteralNumberInteger
-    mf: "noinherit #fca864" # LiteralNumberFloat
-    mo: "noinherit #fca864" # LiteralNumberOct
-    o: "noinherit bold #b8f4ff" # Operator
-    ow: "noinherit bold #b8f4ff" # OperatorWord
-    c: "noinherit italic #223755" # Comment
-    cs: "noinherit italic #223755" # CommentSingle
-    cm: "noinherit italic #223755" # CommentMultiline
-    cx: "noinherit italic #223755" # CommentSpecial
-    ch: "noinherit italic #223755" # CommentHashbang
-    cp: "noinherit italic #223755" # CommentPreproc
+    bg: "noinherit #dde1eb bg:#0d111d"
+    "": "noinherit #dde1eb"
+    kc: "noinherit #c1bbef" # Keyword.Constant
+    kr: "noinherit #c1bbef" # KeywordReserved
+    kd: "noinherit #de968e" # KeywordDeclaration
+    kn: "noinherit #91cfd6" # KeywordNamespace
+    kt: "noinherit #de968e" # KeywordType
+    n: "noinherit #dde1eb" # Name
+    nc: "noinherit #eace8c" # NameClass
+    no: "noinherit #eace8c" # NameConstant
+    ne: "noinherit #f4b285" # NameException
+    nf: "noinherit #d3a9dd" # NameFunction
+    nl: "noinherit #aae9f0" # NameLabel
+    nn: "noinherit #f4b285" # NameNamespace
+    py: "noinherit #f4b285" # NameProperty
+    nt: "noinherit #d0756c" # NameTag
+    nv: "noinherit #acb1bd" # NameVariable
+    vc: "noinherit #acb1bd" # NameVariableClass
+    vg: "noinherit #acb1bd" # NameVariableGlobal
+    vi: "noinherit #acb1bd" # NameVariableInstance
+    na: "noinherit #d3a9dd" # NameAttribute
+    nb: "noinherit #aae9f0" # NameBuiltin
+    nx: "noinherit #dde1eb" # NameOther
+    l: "noinherit #dde1eb" # Literal
+    s: "noinherit #9bd8b4" # LiteralString
+    sc: "noinherit #9bd8b4" # LiteralStringChar
+    s1: "noinherit #9bd8b4" # LiteralStringSingle
+    s2: "noinherit #9bd8b4" # LiteralStringDouble
+    sb: "noinherit #9bd8b4" # LiteralStringBacktick
+    sx: "noinherit #9bd8b4" # LiteralStringOther
+    si: "noinherit #9bd8b4" # LiteralStringInterpol
+    sr: "noinherit #91cfd6" # LiteralStringRegex
+    sd: "noinherit #232837" # LiteralStringDoc
+    sh: "noinherit #232837" # LiteralStringHeredoc
+    m: "noinherit #f4b285" # LiteralNumber
+    mb: "noinherit #f4b285" # LiteralNumberBin
+    mh: "noinherit #f4b285" # LiteralNumberHex
+    mi: "noinherit #f4b285" # LiteralNumberInteger
+    mf: "noinherit #f4b285" # LiteralNumberFloat
+    mo: "noinherit #f4b285" # LiteralNumberOct
+    o: "noinherit bold #aae9f0" # Operator
+    ow: "noinherit bold #aae9f0" # OperatorWord
+    c: "noinherit italic #232837" # Comment
+    cs: "noinherit italic #232837" # CommentSingle
+    cm: "noinherit italic #232837" # CommentMultiline
+    cx: "noinherit italic #232837" # CommentSpecial
+    ch: "noinherit italic #232837" # CommentHashbang
+    cp: "noinherit italic #232837" # CommentPreproc
