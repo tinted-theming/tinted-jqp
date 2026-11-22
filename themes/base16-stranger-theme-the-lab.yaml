@@ -7,15 +7,15 @@ theme:
   name: "native"
   styleOverrides:
     primary: "#39cccc"
-    secondary: "# b10dc9"
+    secondary: "# 7fdbff"
     error: "#ff4136"
     inactive: "#b0b5bc"
     success: "#2ecc40"
   chromaStyleOverrides:
     bg: "noinherit #e0e5ec bg:#1a1d26"
     "": "noinherit #e0e5ec"
-    kc: "noinherit #7fdbff" # Keyword.Constant
-    kr: "noinherit #7fdbff" # KeywordReserved
+    kc: "noinherit #b10dc9" # Keyword.Constant
+    kr: "noinherit #b10dc9" # KeywordReserved
     kd: "noinherit #ff4136" # KeywordDeclaration
     kn: "noinherit #39cccc" # KeywordNamespace
     kt: "noinherit #ff4136" # KeywordType
